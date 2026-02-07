@@ -1,0 +1,21 @@
+.container {
+  padding: 20px;
+}
+
+input, select {
+  margin: 5px;
+  padding: 6px;
+}
+
+.card-wrapper {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.card {
+  border: 1px solid #ccc;
+  padding: 12px;
+  width: 200px;
+  border-radius: 8px;
+}
